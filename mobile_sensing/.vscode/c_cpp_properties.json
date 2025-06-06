@@ -9,6 +9,7 @@
         "/opt/ros/jazzy/include/**",
         "/home/heewon/github_ws/src/mobile_sensing/include/**",
         "/home/heewon/github_ws/src/turtlebot3_node/include/**",
+        "include/**",
         "/usr/include/**"
       ],
       "name": "ROS",
